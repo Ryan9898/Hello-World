@@ -1,2 +1,1 @@
-# ergometric-computing-machine
-I am a current 3rd year at university. My courses taken in computer science along the major track include: Intro to Java, Calculus 2, Data Structures, Discrete Mathematics, Algorithms as well as Computer Systems and Organizations.  I also am and adequate video editor through Final Cut Pro and contain GIS mapping skills.My top skills include video editing through Final Cut Pro, as well as sufficient programming in java and C++. I am personable and easy to work with. As a student I find passion in learning and am constantly trying to improve so ask me about projects if you are unsure and I can find out if I can do them. I do not do anything half assed.
+
